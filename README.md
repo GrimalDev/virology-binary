@@ -1,4 +1,4 @@
-# virology-binary
+# virology-binary school project in Epitech
 
 Pre-built agent binaries, updated automatically by CI.
 
